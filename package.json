@@ -1,0 +1,12 @@
+{
+  "name": "dev-toolchain-single-spa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sudhir4ev/dev-toolchain-single-spa.git",
+  "author": "sudhir4ev",
+  "license": "UNLICENSED",
+  "workspaces": [
+    "we"
+  ],
+  "private": true
+}
